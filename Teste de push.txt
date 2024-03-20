@@ -1,0 +1,1 @@
+Arquivo criado ditero no windows para realização de push pelo gitbash
